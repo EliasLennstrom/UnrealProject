@@ -1,0 +1,3 @@
+C:\Users\August\Documents\GitHub\UnrealProject\TestProject\Source\TestProject\TestProject.Build.cs
+C:\Users\August\Documents\GitHub\UnrealProject\TestProject\Source\TestProject.Target.cs
+C:\Users\August\Documents\GitHub\UnrealProject\TestProject\Source\TestProjectEditor.Target.cs
